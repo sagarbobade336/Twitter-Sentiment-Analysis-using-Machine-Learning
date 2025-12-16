@@ -54,6 +54,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+ # LINK ------> https://twitter-sentiment-analysis-using-machine-learning-kcqwpmqx3awh.streamlit.app/
+
 🎯 Use Case
 
 This project is useful for social media analysis, brand monitoring, and public opinion tracking.

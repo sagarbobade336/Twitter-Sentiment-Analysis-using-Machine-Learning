@@ -49,7 +49,9 @@ requirements.txt – Required libraries
 Twitter_Sentiment_Analysis_using_ML.ipynb – Model training notebook
 
 ▶️ How to Run
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 🎯 Use Case

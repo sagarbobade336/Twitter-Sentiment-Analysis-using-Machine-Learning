@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis using Machine Learning. 
+# 🐦 Twitter Sentiment Analysis using Machine Learning.
 
 This project is a Twitter Sentiment Analysis web application built using Machine Learning and Streamlit. It analyzes the sentiment of a given tweet and classifies it as Positive, Negative, or Neutral.
 
